@@ -8,7 +8,7 @@ order for the specified array of numbers.
 If you are interested in my comments I invite you to visit 
 the following blog in my post:
 
-<T.B.D.>
+https://www.johncanessa.com/2021/01/25/next-permutation/
 
 Keep in mind that one of th ebest ways to learn is to read
 and experiment.
